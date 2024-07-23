@@ -62,6 +62,22 @@ if __name__ == "__main__":
       <img src="assets/icons/powershell.png" width="48" height="48" alt="PowerShell" />
       <br>PowerShell
     </td>
+    <td align="center" width="96">
+      <img src="assets/icons/azure.png" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/aws.png" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/hyperv.png" width="48" height="48" alt="Hyper-V" />
+      <br>Hyper-V
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/onnx.png" width="48" height="48" alt="ONNX" />
+      <br>ONNX
+    </td> 
   </tr>
 </table>
 
