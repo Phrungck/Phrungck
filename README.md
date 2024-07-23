@@ -1,4 +1,4 @@
-## Hi, I am Frank. 👋 Welcome to my page! :)
+## Hi!👋 Welcome to my page! :)
 
 ```python
 class MachineLearningEngineer:
