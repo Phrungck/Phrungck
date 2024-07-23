@@ -47,22 +47,58 @@ if __name__ == "__main__":
 
 ## Languages and Tools
 
-### Languages:
+### Engineering:
 <table>
   <tr>
     <td align="center" width="96">
       <img src="assets/icons/python.png" width="48" height="48" alt="Python" />
       <br>Python3
     </td>
+    <td align="center" width="96">
+      <img src="assets/icons/csharp.png" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/powershell.png" width="48" height="48" alt="PowerShell" />
+      <br>PowerShell
+    </td>
   </tr>
 </table>
 
-### Data Processing Tools
+### Data Manipulation & Visualization
 <table>
   <tr>
     <td align="center" width="96">
       <img src="assets/icons/polars.png" width="48" height="48" alt="Polars" />
       <br>Polars
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/vaex.png" width="48" height="48" alt="Vaex" />
+      <br>Vaex
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/numpy.png" width="48" height="48" alt="Numpy" />
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/pandas.png" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/jupyter.png" width="48" height="48" alt="Jupyter" />
+      <br>Jupyterlab
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/mysql.png" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/seaborn.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="assets/icons/matplotlib.png" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
     </td>
   </tr>
 </table>
