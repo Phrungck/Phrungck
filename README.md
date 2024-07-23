@@ -50,9 +50,13 @@ if __name__ == "__main__":
 ### AI Frameworks
 <table>
     <tr>
-      <td align="center" width="96">
-          <img src="assets/icons/pytorch.png" width="48" height="48" alt="PyTorch" />
+        <td align="center" width="96">
+          <img src="assets/icons/pytorch-logo-flame.png" width="48" height="48" alt="PyTorch" />
           <br>PyTorch
+        </td>
+        <td align="center" width="96">
+          <img src="assets/icons/tensorflow.png" width="48" height="48" alt="TensorFlow" />
+          <br>TensorFlow
       </td>
     </tr>
 </table>
