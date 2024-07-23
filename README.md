@@ -45,7 +45,17 @@ if __name__ == "__main__":
 
 ```
 
-## Languages and Tools
+## Skills
+
+### AI Frameworks
+<table>
+    <tr>
+      <td align="center" width="96">
+          <img src="assets/icons/pytorch.png" width="48" height="48" alt="PyTorch" />
+          <br>PyTorch
+      </td>
+    </tr>
+</table>
 
 ### Engineering:
 <table>
