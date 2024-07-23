@@ -61,7 +61,53 @@ if __name__ == "__main__":
     </tr>
 </table>
 
-### Engineering:
+### Machine Learning & Deep Learning
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="assets/icons/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
+            <br>SkLearn
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/hf-logo.png" width="48" height="48" alt="HuggingFace" />
+            <br>HuggingFace
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/torchtext.png" width="48" height="48" alt="Torchtext" />
+            <br>Torchtext
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/pyart.png" width="48" height="48" alt="PyArt" />
+            <br>PyArt
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/mediapipe.png" width="48" height="48" alt="MediaPipe" />
+            <br>MediaPipe
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/scipy.png" width="48" height="48" alt="Scipy" />
+            <br>Scipy
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+            <br>OpenCV
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/monai.png" width="48" height="48" alt="MONAI" />
+            <br>MONAI
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/torchvision.png" width="48" height="48" alt="Torchvision" />
+            <br>Torchvission
+        </td>
+        <td align="center" width="96">
+            <img src="assets/icons/streamlit.png" width="48" height="48" alt="streamlit" />
+            <br>Streamlit
+        </td>
+    </tr>
+</table>
+
+### Engineering
 <table>
   <tr>
     <td align="center" width="96">
