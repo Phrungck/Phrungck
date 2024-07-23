@@ -44,3 +44,25 @@ if __name__ == "__main__":
     print(profile)
 
 ```
+
+## Languages and Tools
+
+### Languages:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/icons/python.png" width="48" height="48" alt="Python" />
+      <br>Python3
+    </td>
+  </tr>
+</table>
+
+### Data Processing Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/icons/polars.png" width="48" height="48" alt="Polars" />
+      <br>Polars
+    </td>
+  </tr>
+</table>
