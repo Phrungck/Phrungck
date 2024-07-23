@@ -71,11 +71,7 @@ if __name__ == "__main__":
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="assets/icons/hyperv.png" width="48" height="48" alt="Hyper-V" />
-      <br>Hyper-V
-    </td>
-    <td align="center" width="96">
-      <img src="assets/icons/onnx.png" width="48" height="48" alt="ONNX" />
+      <img src="assets/icons/ONNX_Runtime_icon.png" width="48" height="48" alt="ONNX" />
       <br>ONNX
     </td> 
   </tr>
